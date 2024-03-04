@@ -1,0 +1,8 @@
+% knapsack_data.dzn
+
+% Input data for the knapsack problem
+n = 5;                  % Number of items
+weight = [2, 3, 4, 5, 6];   % Weight of each item
+profit = [5, 4, 2, 4, 12];    % profit of each item
+capacity = 10;            % Knapsack capacity
+
